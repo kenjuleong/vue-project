@@ -14,7 +14,7 @@
         },
         list: [
        {
-        name: 'Goofie',
+        name: 'Annie',
         attack: 25,
         health: 200
        },{
